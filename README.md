@@ -1,12 +1,12 @@
 # Simulador de Escalonamento de Tarefas
 
 Projeto pratico da disciplina de Sistemas Operacionais, ministrada por
-`<nome do professor>`. Semestre `<ano/semestre>`.
+`Vinicius S. Borges`. Semestre `2026/2`.
 
 ## Autoria
 
-- `<Nome do integrante 1>`
-- `<Nome do integrante 2>`
+- `Caio Alexandre Rossi`
+- `Caio S. A. de Araújo`
 
 ## Como executar
 
