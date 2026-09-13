@@ -1,0 +1,40 @@
+{
+  "versao": 1,
+  "tarefas": [
+    {
+      "id": 1,
+      "ingresso": 0,
+      "tp": 5,
+      "prioridade": 2,
+      "uso_de_r": null
+    },
+    {
+      "id": 2,
+      "ingresso": 0,
+      "tp": 2,
+      "prioridade": 3,
+      "uso_de_r": null
+    },
+    {
+      "id": 3,
+      "ingresso": 1,
+      "tp": 4,
+      "prioridade": 1,
+      "uso_de_r": null
+    },
+    {
+      "id": 4,
+      "ingresso": 3,
+      "tp": 1,
+      "prioridade": 4,
+      "uso_de_r": null
+    },
+    {
+      "id": 5,
+      "ingresso": 5,
+      "tp": 2,
+      "prioridade": 5,
+      "uso_de_r": null
+    }
+  ]
+}
