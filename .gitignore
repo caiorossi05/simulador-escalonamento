@@ -1,50 +1,22 @@
-# ---------------------------------------------------------------
-# A linguagem do projeto e livre. Este arquivo cobre os restos mais
-# comuns de varias linguagens.
-#
-# IMPORTANTE: a pasta em que o executavel e gerado (dist/, bin/,
-# target/, ...) NAO deve ser ignorada, porque o executavel faz
-# parte da entrega. Se acrescentar regras, revise este ponto.
-# ---------------------------------------------------------------
-
-# Artefatos intermediarios de compilacao
-build/
-obj/
-out/
-*.o
-*.obj
-*.class
-*.spec
-
-# Python
+# Caches e artefatos do Python
 __pycache__/
-*.py[cod]
+*.pyc
+*.pyo
+
+# Ambientes virtuais
 .venv/
 venv/
 env/
+myenv/
 
-# Java, C#, Node
-*.jar.tmp
-node_modules/
+# Artefatos intermediarios do PyInstaller
+build/
 
-# Editores
+# Editores e sistema operacional
 .vscode/
 .idea/
-*.swp
-
-# Sistema operacional
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Saidas geradas pelo simulador durante o uso
-saida/
-
-# LaTeX
-*.aux
-*.log
-*.out
-*.synctex.gz
-*.toc
-*.fls
-*.fdb_latexmk
+# ATENCAO: dist/ NAO entra aqui.
+# O executavel faz parte da entrega e precisa ser versionado.
