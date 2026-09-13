@@ -20,3 +20,4 @@ Thumbs.db
 
 # ATENCAO: dist/ NAO entra aqui.
 # O executavel faz parte da entrega e precisa ser versionado.
+*.spec
